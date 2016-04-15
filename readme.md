@@ -1,3 +1,4 @@
+```html
 <h2>Item Slider</h2>
 
 <p>Item slider direvtive for hybrid application.<p>
@@ -10,7 +11,10 @@
 <p>. Pass your data into data attribute. It should be and array with json format.</p>
 
 <p>3. Keep json object with specific keys:-
-	i.   id
-	ii.  name
-	iii. image
+	<ul>
+		<li>i.   id</li>
+		<li>ii.  name</li>
+		<li>iii. image</li>
+	</ul>	
 </p>
+```

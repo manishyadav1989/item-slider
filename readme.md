@@ -1,9 +1,9 @@
 Item Slider
 
 Item slider direvtive for hybrid application. 
-<code>
+<pre>
 	<item-slider data="sliderData"></item-slider>
-</code>
+</pre>
 
 1. Use item slider as element.
 

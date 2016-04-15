@@ -1,15 +1,17 @@
-Item Slider
+```html
+<h2>Item Slider</h2>
 
-Item slider direvtive for hybrid application. 
+<p>Item slider direvtive for hybrid application.<p>
 <pre>
 	<item-slider data="sliderData"></item-slider>
 </pre>
 
-1. Use item slider as element.
+<p>1. Use item slider as element.</p>
 
-2. Pass your data into data attribute. It should be and array with json format.
+<p>. Pass your data into data attribute. It should be and array with json format.</p>
 
-3. Keep json object with specific keys:-
+<p>3. Keep json object with specific keys:-
 	i.   id
 	ii.  name
 	iii. image
+</p>

@@ -11,6 +11,6 @@ Item slider direvtive for hybrid application.
 2. Pass your data into data attribute. It should be and array with json format.
 
 3. Keep json object with specific keys:-
-..*i.   id 
-..*ii.  name 
-..*iii. image 
+..i.   id 
+..ii.  name 
+..iii. image 

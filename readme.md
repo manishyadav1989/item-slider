@@ -1,9 +1,9 @@
 <h2>Item Slider</h2>
 
 <p>Item slider direvtive for hybrid application.<p>
-<pre>
+<code>
 	<item-slider data="sliderData"></item-slider>
-</pre>
+</code>
 
 <p>1. Use item slider as element.</p>
 

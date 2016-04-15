@@ -1,4 +1,3 @@
-```html
 <h2>Item Slider</h2>
 
 <p>Item slider direvtive for hybrid application.<p>
